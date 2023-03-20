@@ -19,7 +19,7 @@ Project description and dataset [links](https://docs.google.com/document/d/1Pmr2
 
 Final report - [Google Doc](https://docs.google.com/document/d/1WeXsE8rqi019rhUFJJHQ6KtCFMxlk2ATrinIDYukxyo/edit#heading=h.nj23sjpj5u97)
 
-Interactive dashboard to visualized climate & political scores - [Tableau dashboard](https://public.tableau.com/shared/WWP3DDW5C?:display_count=n&:origin=viz_share_link)
+Interactive dashboard to visualize climate & political scores - [Tableau dashboard](https://public.tableau.com/shared/WWP3DDW5C?:display_count=n&:origin=viz_share_link)
 
 
 
